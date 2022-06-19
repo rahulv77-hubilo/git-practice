@@ -1,2 +1,2 @@
 Hi i am learning git 
-i
+Create pull merge practice
